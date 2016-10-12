@@ -1,0 +1,25 @@
+{
+  "name": "basenode",
+  "version": "1.0.0",
+  "description": "base em node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vandersonmaroni/baseNode.git"
+  },
+  "author": "Vanderson Maroni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vandersonmaroni/baseNode/issues"
+  },
+  "homepage": "https://github.com/vandersonmaroni/baseNode#readme",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "pug": "^2.0.0-beta6"
+  }
+}
